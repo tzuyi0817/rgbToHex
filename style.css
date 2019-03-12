@@ -1,0 +1,25 @@
+.redcard, .greencard, .blackcard {
+  height: 40px;
+  border-radius: 5px;
+  width: 50px;
+}
+
+.redcard {
+  background-color: red;
+}
+
+.greencard {
+  background-color: green;
+  margin-top: 15px;
+}
+
+.blackcard {
+  background-color: black;
+  margin-top: 15px;
+}
+
+.hexcolor{
+  height: 100px;
+  width: 120px;
+  margin-top: 15px;
+}
