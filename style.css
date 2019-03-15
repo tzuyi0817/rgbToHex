@@ -1,4 +1,4 @@
-.redcard, .greencard, .blackcard {
+.redcard, .greencard, .bluecard {
   height: 40px;
   border-radius: 5px;
   width: 50px;
@@ -13,7 +13,7 @@
   margin-top: 15px;
 }
 
-.blackcard {
+.bluecard {
   background-color: blue;
   margin-top: 15px;
 }
