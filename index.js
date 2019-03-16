@@ -5,7 +5,7 @@ const button = document.querySelector('[data-alpha-pos="convert"]')
 const hex = document.querySelector('#hex')
 const hexColor = document.querySelector('.hexcolor')
 
-// 檢查書入值是否輸入錯誤 & 轉換hex產生顏色
+// 檢查輸入值是否輸入錯誤 & 轉換hex產生顏色
 button.addEventListener('click' , function() {
   let r = inputR.value
   let g = inputG.value
